@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605297688797",
+    "firebase_url": "https://diamond-ebf98.firebaseio.com",
+    "project_id": "diamond-ebf98",
+    "storage_bucket": "diamond-ebf98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605297688797:android:6c908c2ef2234b5052db34",
+        "android_client_info": {
+          "package_name": "com.bechakeena.bkdiamond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605297688797-41ubprrcbl6o8vg8urlb3vq8cot37a9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bechakeena.bkdiamond",
+            "certificate_hash": "c63386e0068889397a69d34b87ad7d1d00e4bbb2"
+          }
+        },
+        {
+          "client_id": "605297688797-snmc52cjnlhtb5bdjhbb2e6tl60de8pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_HFuzNvRQpT6FRNfFl_lQq6M5xCBRP-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605297688797-snmc52cjnlhtb5bdjhbb2e6tl60de8pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

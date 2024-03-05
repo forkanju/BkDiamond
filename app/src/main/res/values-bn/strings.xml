@@ -1,0 +1,79 @@
+<resources>
+    <string name="select">ভাষা নির্বাচন কর</string>
+    <string name="welcome">বেচাকেনায় আপনাকে স্বাগতম.</string>
+    <string name="title_dashboard">ড্যাশবোর্ড</string>
+    <string name="title_login">লগইন</string>
+    <string name="label_registration">নিবন্ধন</string>
+    <string name="label_change_pin">পিন পরিবর্তন করুন</string>
+
+    <string name="label_copyright">কপিরাইট © 2018 সর্বাধিক অধিকার বেচাকিনা দ্বারা সংরক্ষিত.</string>
+    <string name="label_change_language">ভাষা পরিবর্তন করুন</string>
+    <string name="sign_out">সাইন আউট</string>
+    <string name="enter_your_phone_number">আপনার ফোন নম্বর লিখুন</string>
+    <string name="err_msg_name">Enter your name</string>
+    <string name="err_msg_zone">Enter your zone</string>
+    <string name="enter_your_pin">আপনার পিন লিখুন</string>
+    <string name="enter_your_shop_name">আপনার দোকান নাম লিখুন</string>
+    <string name="confirm_pin">পিন নিশ্চিত করুন</string>
+    <string name="enter_your_old_password">আপনার পুরানো পাসওয়ার্ড লিখুন</string>
+    <string name="title_home">হোম</string>
+    <string name="title_categories">বিভাগ</string>
+    <string name="title_brands">ব্র্যান্ড পণ্য</string>
+    <string name="title_settings">সেটিংস</string>
+    <string name="alert_confirm_logout">আপনি নিশ্চিত এই অ্যাপ্লিকেশন লগ আউট?</string>
+
+    <!--error massage -->
+    <string name="err_no_internet_connection">কোন ইন্টারনেট সংযোগ নেই!</string>
+    <string name="err_cart_empty">পণ্য যোগ করুন!</string>
+    <string name="err_msg_shop">আপনার দোকান নাম লিখুন</string>
+    <string name="err_msg_phone">আপনার ফোন নম্বর লিখুন</string>
+    <string name="err_msg_pin">আপনার পিন লিখুন</string>
+    <string name="err_msg_confirm_pin">পিন মেলে না</string>
+    <string name="err_msg_pin_length">আপনার পিন খুব ছোট</string>
+
+    <string name="success">সম্পন্ন</string>
+    <string name="help">সাহায্য</string>
+    <string name="info">তথ্য</string>
+    <string name="err">সমস্যা</string>
+    <string name="warning">সতর্কতা</string>
+    <string name="info_want_to_logout">আপনি লগ আউট করতে চান ?</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="cancel">বাতিল</string>
+    <string name="enter_your_new_pin">আপনার নতুন পিন লিখুন</string>
+    <string name="warning_exit_app">আপনি অ্যাপ্লিকেশন থেকে প্রস্থান করতে চান নিশ্চিত</string>
+    <string name="no">না</string>
+    <string name="yes">হাঁ</string>
+    <string name="my_cart">আমার কার্ট</string>
+    <string name="delete">মুছে ফেলা</string>
+    <string name="err_empty_cart">কার্ট খালি!</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="search_hint">Type name…</string>
+    <string name="enter_your_hr_code">Enter your HR code</string>
+    <string name="enter_your_product_name">Enter your product name</string>
+    <string name="enter_product_details">Enter product details</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="enter_sell_price">Enter sell price</string>
+
+    <string name="lbl_total">Total</string>
+    <string name="lbl_total_due">Total Due</string>
+    <string name="lbl_total_paid">Total Paid</string>
+
+    <string name="msg_error_unable_select_profile_pic">Unable to set profile image. Please try again!</string>
+    <string name="lbl_set_profile_photo">Set profile image</string>
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="current_price">বর্তমান দাম</string>
+    <string name="quantity">সংখ্যা</string>
+    <string name="cart_info_bar_data">%d Items | ৳ %s</string>
+    <string name="btn_checkout">CHECKOUT (%s)</string>
+    <string name="lbl_item_price_quantity">%s x %d</string>
+    <string name="lbl_amount_with_currency">%s : ৳%.2f</string>
+    <string name="price_with_currency">৳%.2f</string>
+
+
+</resources>

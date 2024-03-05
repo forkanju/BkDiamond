@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#FFE70E45</color>
+    <color name="colorPrimary">#FFFE104D</color>
+    <color name="colorAccent">#FF00BFA5</color>
+    <color name="bg">#E1E2E2</color>
+    <color name="txt_color">#141a22</color>
+    <color name="colorCount">#CC000000</color>
+
+    <!--order status color-->
+    <color name="pending">#FFEB3B</color>
+    <color name="approved">#17C5A6</color>
+    <color name="received">#2C3642</color>
+    <color name="rejected">#F44336</color>
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="limegreen">#03da90</color>
+    <color name="yellow">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="background_ash">#EEEEEE</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorAccentSecondary">#ad1a7f</color>
+    <color name="labelColor">#dadada</color>
+    <color name="valueColor">#222222</color>
+
+    <color name="blue">#FF005a9c</color>
+    <color name="lightBlue">#ff6691c4</color>
+    <color name="lighterBlue">#ffcdd8ec</color>
+
+    <color name="light_gray">#6e7f8d</color>
+    <color name="black">#000000</color>
+
+    <color name="div">#d5c5a4</color>
+    <color name="text">#32353e</color>
+    <color name="textred">#ca362c</color>
+
+    <!--color dialog-->
+    <color name="color_dialog_gray">#ededf3</color>
+    <color name="color_dialog_content">#ed7861</color>
+    <color name="color_dialog_title">#303030</color>
+    <color name="color_dialog_content_prompt">#343434</color>
+
+    <color name="color_type_info">#79b3e4</color>
+    <color name="color_type_help">#FFB300</color>
+    <color name="color_type_wrong">#FFE70E45</color>
+    <color name="color_type_warning">#FFB300</color>
+    <color name="color_type_success">#00bfa5</color>
+    <color name="profile_default_tint">#e0e0e0</color>
+
+
+    <color name="address">#2F7092</color>
+    <color name="followers">#0D5D98</color>
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#F72158</color>
+    <color name="gradStart">#F35276</color>
+    <color name="followersBg">#F72158</color>
+    <color name="followingBg">#F35276</color>
+    <color name="grey">#E5E5E5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="selected_product_count">#4d4d4d</color>
+    <color name="list_product_name">#121212</color>
+    <color name="list_products_price">#4d4d4d</color>
+    <color name="gradient_2">#3e3e3e</color>
+    <color name="btn_remove_item">#fc2222</color>
+    <color name="border_remove_item">#fc9898</color>
+    <color name="bg_separator">#DA707070</color>
+
+</resources>

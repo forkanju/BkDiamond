@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/_40sdp"
+    android:background="@color/colorAccent"
+    android:padding="@dimen/_5sdp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:fontFamily="@font/josefinsans_regular"
+        android:lineSpacingExtra="3sp"
+        android:text="VIEW CARD"
+        android:layout_centerVertical="true"
+        android:textColor="@color/gradient_2"
+        android:textSize="16sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/cart_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:lineSpacingExtra="3sp"
+        android:textColor="@color/gradient_2"
+        android:textSize="16sp"
+        android:textStyle="normal" />
+
+</RelativeLayout>
